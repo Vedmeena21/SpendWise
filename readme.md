@@ -155,6 +155,6 @@ For support, please:
 ---
 
 <div align="center">
-Made with ❤️ by the Smart Expense Analyzer Team [Me]
+Made with ❤️ by the Smart Expense Analyzer [Ved Prakash Meena]
 </div>
 
